@@ -9,6 +9,8 @@ import BrandsLove from '../components/BrandsLove/BrandsLove';
 import WindowPeak from '../components/WindowPeak/WindowPeak';
 import MobileScroll from '../components/MobileScroll/MobileScroll';
 import CredStory from '../components/CredStory/CredStory';
+import Apprating from '../components/AppRating/Apprating';
+import Footer from '../components/common/Footer/Footer'
 
 const Home = () => {
   return (
@@ -25,6 +27,8 @@ const Home = () => {
       </div>
       <CredSecurity/>
       <CredStory/>
+      <Apprating/>
+      <Footer/>
     </div>
   )
 }
