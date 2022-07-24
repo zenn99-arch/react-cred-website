@@ -8,6 +8,7 @@ import CredSecurity from '../components/CredSecurity/CredSecurity';
 import BrandsLove from '../components/BrandsLove/BrandsLove';
 import WindowPeak from '../components/WindowPeak/WindowPeak';
 import MobileScroll from '../components/MobileScroll/MobileScroll';
+import CredStory from '../components/CredStory/CredStory';
 
 const Home = () => {
   return (
@@ -23,6 +24,7 @@ const Home = () => {
         <WindowPeak/>
       </div>
       <CredSecurity/>
+      <CredStory/>
     </div>
   )
 }
