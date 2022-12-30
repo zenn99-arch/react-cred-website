@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# Cred Website clone using React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is created using Reactjs 
 
-## Available Scripts
+## Website Preview
 
 visit the site - https://cred-webclone.netlify.app
 
